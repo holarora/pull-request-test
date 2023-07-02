@@ -6,6 +6,8 @@ var sortNumber = function (number) {
         return a < b ? -1 : 1;
     });
  };
+
+ print("hi")
  
  var number = [19, 3, 81, 1, 24, 21];
  sortNumber(number);
