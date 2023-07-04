@@ -13,4 +13,4 @@ var sortNumber = function (number) {
  sortNumber(number);
  console.log(number);
 
- print("hi")
+ print("Hi")
